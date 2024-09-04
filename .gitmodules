@@ -1,0 +1,6 @@
+[submodule "obilele-app"]
+	path = obilele-app
+	url = https://github.com/guardiankiller/mobilele-app.git
+[submodule "pathfinder"]
+	path = pathfinder
+	url = https://github.com/guardiankiller/pathfinder.git
