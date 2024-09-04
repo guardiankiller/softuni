@@ -1,5 +1,5 @@
 [submodule "obilele-app"]
-	path = obilele-app
+	path = mobilele-app
 	url = https://github.com/guardiankiller/mobilele-app.git
 	branch = master
 
